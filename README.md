@@ -1,2 +1,2 @@
 "# Algos" 
-All algorithums which are imported and which we not genrally heard.
+All algorithums which are important and which we not genrally heard.
